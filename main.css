@@ -29,8 +29,9 @@ header li a {
 }
 
 .container {
-    width: 1366;
+    width: 1366px;
     margin-top: 0 auto;
+    margin-left: 10%;
 }
 
 .articles {
